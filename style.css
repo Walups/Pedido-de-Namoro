@@ -1,0 +1,57 @@
+
+
+body{
+
+    background-color: rgb(255, 168, 183);
+    color: #fff;
+
+}
+
+#container{
+
+    display: block;
+    width: 400px;
+    margin: auto;
+
+}
+
+h1{
+
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+#bot{
+
+    position: relative;
+    width: 250px;
+    margin: auto;
+
+}
+
+button{
+
+    background-color: red;
+    color: #fff;
+    width: 100px;
+    height: 35px;
+    position: relative;
+    border: none;
+    border-radius: 8px;
+    margin-left: 0px;
+
+}
+
+.mover{
+
+    position: absolute;
+    right: 0;
+
+}
+
+p{
+
+    text-align: center;
+
+}
